@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "stylelint.validate": ["vue", "css", "tailwindcss"]
+}
